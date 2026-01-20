@@ -1,39 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Zepto E-commerce SQL Data Analyst Portfolio Project</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #1f2937;
-        }
-        code {
-            background-color: #f3f4f6;
-            padding: 2px 6px;
-            border-radius: 4px;
-        }
-        pre {
-            background-color: #f3f4f6;
-            padding: 15px;
-            border-radius: 6px;
-            overflow-x: auto;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        hr {
-            margin: 40px 0;
-        }
-    </style>
-</head>
-<body>
-
 <h1>🛒 Zepto E-commerce SQL Data Analyst Portfolio Project</h1>
 
 <p>
